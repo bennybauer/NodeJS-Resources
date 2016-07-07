@@ -6,6 +6,7 @@ Curated list of Node.js goodies. Obviuosly it's not a complete list, more of a m
 - [learnyounode](https://github.com/workshopper/learnyounode) - Node.js interactive tutorial (from [nodeschool.io](http://nodeschool.io/))
 - [stream-handbook](https://github.com/substack/stream-handbook) - Streams handbook
 - [stream-adventure](https://github.com/substack/stream-adventure) - Interactive tutorial about streams (from [nodeschool.io](http://nodeschool.io/))
+- [ECMAScript6 Features](http://es6-features.org/)
 
 
 ## Books
