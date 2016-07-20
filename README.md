@@ -8,10 +8,12 @@ Curated list of Node.js goodies. Obviuosly it's not a complete list, more of a m
 - [stream-adventure](https://github.com/substack/stream-adventure) - Interactive tutorial about streams (from [nodeschool.io](http://nodeschool.io/))
 - [ECMAScript6 Features](http://es6-features.org/)
 
-
 ## Books
 - [Web Development with Node and Express](https://www.safaribooksonline.com/library/view/web-development-with/9781491902288/)
 - [Java Script: The Good Parts](https://www.safaribooksonline.com/library/view/javascript-the-good/9780596517748/)
 
 ## Style Guides
 - [Node.js Style Guide](https://github.com/felixge/node-style-guide)
+
+## MUST
+- [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links#essential-javascript-links)
